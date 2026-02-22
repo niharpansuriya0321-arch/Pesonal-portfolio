@@ -2,9 +2,7 @@
 
 This repository showcases personal portfolio website, a digital platform designed to highlight my skills, projects, and experiences. It serves as a comprehensive overview of my professional journey and creative work.
 
-<hr># Personal Portfolio Website
-
-This is my personal portfolio website project.<br>
+<hr>This is my personal portfolio website project.<br>
 
 ## Purpose of This Repository
 
